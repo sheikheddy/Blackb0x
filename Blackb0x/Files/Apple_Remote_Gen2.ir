@@ -44,3 +44,9 @@ type: parsed
 protocol: NECext
 address: EE 87 00 00
 command: 07 AA 00 00
+#
+name: Down_Menu
+type: parsed
+protocol: NECext
+address: EE 87 00 00
+command: 0F AA 00 00
